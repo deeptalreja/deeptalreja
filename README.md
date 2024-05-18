@@ -1,4 +1,5 @@
-![MasterHead](deep.gif)
+![MasterHead](![ deep](https://github.com/deeptalreja/deeptalreja/assets/170199807/334fdb18-d778-4175-b289-97e92c0e89ed)
+)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deep+Talreja!;" />
 </h1>
