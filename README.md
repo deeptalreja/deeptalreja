@@ -1,4 +1,4 @@
-![MasterHead](![ deep](https://github.com/deeptalreja/deeptalreja/assets/170199807/b9f0e04e-8d14-495f-8700-fde9b8e8b54f)
+![MasterHead](170199807/b9f0e04e-8d14-495f-8700-fde9b8e8b54f)
 .gif)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deep+Talreja!;" />
@@ -6,11 +6,14 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Image Processing and Data Science<br>👯 I’m looking to collaborate on Image Processing<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Data Science, Machine Learning and Image Processing<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Java Programming and C++ Programming Language with projects<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with<br>🌱 I’m currently Studying Computer Science at VIT Bhopal <br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uditya-narayan-tiwari-562332289) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codefusionhindi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KGPTalkie) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deeptalreja) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codefusionhindi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KGPTalkie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@deeptalreja) 
+[![Instagram](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@deeptalreja) 
+[![Twitter](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@deeptalreja) 
+[![Facebook](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](lm.facebook.com/l.php?u=https://fb.me/deep.talreja.31&h=AT2KOtdQBKIXy7IEBNhdkYvykscprys-akqaRgdDLadrWt7ss-7CC1FO0St-SF_d3h3z7cQdSCLX2EGtTUB0APXeg0OT7nhFSYL9NskYmZBqVZQ5FSgp3Ppo1gcRhXp7th9ZHA) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
