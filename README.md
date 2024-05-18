@@ -11,9 +11,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deeptalreja) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codefusionhindi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KGPTalkie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@deeptalreja) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23FF0000.svg?logo=Instagram&logoColor=white)](instagram.com/deeptalreja_) 
-[![Twitter](https://img.shields.io/badge/Twitter-%23FF0000.svg?logo=Twitter&logoColor=white)](mobile.twitter.com/DeepTalreja31) 
-[![Facebook](https://img.shields.io/badge/Facebook-%23FF0000.svg?logo=Facebook&logoColor=white)](lm.facebook.com/l.php?u=https://fb.me/deep.talreja.31&h=AT2KOtdQBKIXy7IEBNhdkYvykscprys-akqaRgdDLadrWt7ss-7CC1FO0St-SF_d3h3z7cQdSCLX2EGtTUB0APXeg0OT7nhFSYL9NskYmZBqVZQ5FSgp3Ppo1gcRhXp7th9ZHA) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23FF0000.svg?logo=Instagram&logoColor=white)](https://instagram.com/deeptalreja_) 
+[![Twitter](https://img.shields.io/badge/Twitter-%23FF0000.svg?logo=Twitter&logoColor=white)](https://mobile.twitter.com/DeepTalreja31) 
+[![Facebook](https://img.shields.io/badge/Facebook-%23FF0000.svg?logo=Facebook&logoColor=white)](https://lm.facebook.com/l.php?u=https://fb.me/deep.talreja.31&h=AT2KOtdQBKIXy7IEBNhdkYvykscprys-akqaRgdDLadrWt7ss-7CC1FO0St-SF_d3h3z7cQdSCLX2EGtTUB0APXeg0OT7nhFSYL9NskYmZBqVZQ5FSgp3Ppo1gcRhXp7th9ZHA) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
